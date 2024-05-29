@@ -176,7 +176,8 @@ a {
 } */
 .all_sponsors {
     animation: 40s slide infinite linear;
-/*     display: flex; */
+    display: flex;
+    flex-direction: row;
     width: 100%;
     max-width: 100%;
 }
